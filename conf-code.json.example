@@ -1,0 +1,12 @@
+{
+    "user": "user@company.com",
+    "token": "<api-token>",
+    "base": "https://<company>.atlassian.net/wiki/rest/api/",
+    "space": "A Space",
+    "pages" : {
+        "First Page Title": {
+            "Heading One": "path/to/file.json",
+            "Second Heading": "another/path/main.py"
+        }
+    }
+}
